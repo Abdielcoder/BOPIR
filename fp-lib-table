@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "triangulo")(type "KiCad")(uri "/Users/abdielc/Documents/KiCad/6.0/footprints/idg.pretty")(options "")(descr ""))
+  (lib (name "skulls2")(type "KiCad")(uri "/Users/abdielc/Documents/KiCad/6.0/footprints/idg.pretty")(options "")(descr "calaca"))
+)
