@@ -1,9 +1,0 @@
-Info: Procesando el símbolo 'A1:Module:Arduino_Nano'.
-Info: Procesando el símbolo 'J1:Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical'.
-Info: Procesando el símbolo 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
-Info: Procesando el símbolo 'J3:Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical'.
-Info: Procesando el símbolo 'J4:'.
-Error: No puede añadirse J4 (no se ha asignado huella).
-
-
-Info: Número de avisos: 0, errores: 1.
